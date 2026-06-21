@@ -24,7 +24,7 @@ identity:
 
 achievements:
   - Huawei ICT Competition — Regional Finalist & 3rd Prize Winner (Southern Africa, Cloud Track)
-  - Ranked 132nd nationally among open-source developers on GitHub Uganda
+  - Ranked  nationally among most active open-source developers on GitHub Uganda
   - HCIA-AI Certified  |  HCIA-Cloud Certified (Huawei)
   - Showcased at the 4th National Appropriate Technologies Expo — UMA Showgrounds
 
