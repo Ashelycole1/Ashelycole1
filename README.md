@@ -7,7 +7,7 @@
 ---
 
 [![Portfolio](https://img.shields.io/badge/-ashelycole.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ashelycole.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-Niwasiima_Ashelycole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niwasiima-ashelycole)
+[![LinkedIn](https://img.shields.io/badge/-Niwasiima_Ashelycole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niwasiima-ashelycole-091698390)
 [![Gmail](https://img.shields.io/badge/-coleniwasiima@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coleniwasiima@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Ashelycole1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashelycole1)
 
