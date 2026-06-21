@@ -1,27 +1,152 @@
-## Hi there 👋 :
-👾Who is Niwasiima Ashelycole ? <br>🚀 I’m a code-slinging software engineer who writes logic by moonlight, breaks bugs by sunlight, and never turns down a strong cup of coffee.<br><br><br>🏀 When I’m not building beautiful UIs or architecting backends, I’m on the court throwing dimes and draining threes.<br>🎌 I dive deep into anime worlds like it’s second nature — from Tokyo streets to demon realms.<br>🎧 I live on music, thrive on caffeine, and write my best code when the world’s asleep.<br><br><br>💻 Languages? I speak HTML, CSS, JS, Java, C++, React, Node, TypeScript, PHP, MongoDB… and sarcasm.<br>🎨 Tools? Figma, VSCode , Antigravity, Illustrator — my digital dojo.<br>🧠 OS of choice? Linux. Obviously.<br><br><br>In short: I build, I ball, I binge — all with a keyboard and coffee in hand.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=160&section=header&text=NIWASIIMA%20ASHELYCOLE&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=blinking&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@coles.lost.soul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niwasiima-ashelycole-091698390) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ashelycole01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coleniwasiima@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ashelycole1&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ashelycole1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ashelycole1&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ashelycole1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ashelycole1&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Software+Engineer+%7C+CTO+%40+RENOA;AI+Builder+%7C+Web3+Architect;Huawei+ICT+Regional+Finalist+%7C+Uganda;Building+from+Kampala+for+the+World" alt="Typing SVG" />
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ashelycole1&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Portfolio](https://img.shields.io/badge/-ashelycole.vercel.app-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ashelycole.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-Niwasiima_Ashelycole-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/niwasiima-ashelycole)
+[![Gmail](https://img.shields.io/badge/-coleniwasiima@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coleniwasiima@gmail.com)
+[![GitHub](https://img.shields.io/badge/-Ashelycole1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashelycole1)
+
+</div>
+
+---
+
+```yaml
+identity:
+  name        : Niwasiima Ashelycole
+  role        : Software Engineer  |  Co-Founder & CTO @ RENOA
+  location    : Kampala, Uganda
+  university  : Cavendish University Uganda — BSc Software Engineering (2029)
+
+achievements:
+  - Huawei ICT Competition — Regional Finalist & 3rd Prize Winner (Southern Africa, Cloud Track)
+  - Ranked 132nd nationally among open-source developers on GitHub Uganda
+  - HCIA-AI Certified  |  HCIA-Cloud Certified (Huawei)
+  - Showcased at the 4th National Appropriate Technologies Expo — UMA Showgrounds
+
+currently_building:
+  - ExFlo    → Autonomous AI travel orchestration  [Next.js + LangChain + MiniPay + Web3]
+  - Eco Farm → Sustainable AgriTech platform       [TypeScript + AI + Data Visualization]
+  - Gemyte   → Core product engineering @ RENOA    [Full-Stack + Cloud Architecture]
+  - LawBuddy → Ugandan Constitution AI assistant   [Dart + Flutter + Offline-first]
+
+philosophy : "Code is just the tool. The mission is what matters."
+```
+
+---
+
+<div align="center">
+
+### TECH STACK
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,dart,c,html,css&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,flask,tailwind,bootstrap&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,firebase,supabase,postgres&theme=dark&perline=8" />
+
+<img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,mongodb,mysql&theme=dark&perline=8" />
+
+</div>
+
+---
+
+### WHAT I SHIP
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[LAW BUDDY](https://github.com/Ashelycole1/LAWBUDDY)**
+
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![AI](https://img.shields.io/badge/AI-7c3aed?style=flat-square&logo=openai&logoColor=white)
+
+AI assistant grounded in the **1995 Ugandan Constitution**. Built so every citizen — online or offline — can understand and exercise their legal rights. Real infrastructure. Real impact.
+
+</td>
+<td width="50%" valign="top">
+
+**[ECO FARM](https://github.com/Ashelycole1/Ecofarm)**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+
+Sustainable AgriTech platform. Demonstrated live at the **4th National Appropriate Technologies Expo** at UMA Showgrounds to national industry experts and government stakeholders.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**EXFLO** *(RENOA)*
+
+![NextJS](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white)
+
+Autonomous AI travel orchestration ecosystem. Integrates LangChain agents with MiniPay for seamless, **Web3-powered contextual micro-transactions**. The future of how people move.
+
+</td>
+<td width="50%" valign="top">
+
+**[RAFIKI](https://github.com/Ashelycole1)**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![AI](https://img.shields.io/badge/Prompt+Engineering-7c3aed?style=flat-square&logo=openai&logoColor=white)
+
+Bilingual career readiness mini-app for **Kuelimika Kwa Africa**. Built a master prompt orchestration layer that delivers personalized, dynamic career guidance in two languages.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### GITHUB METRICS
+
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=Ashelycole1&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&icon_color=7c3aed&text_color=ffffff&ring_color=7c3aed&count_private=true&include_all_commits=true" />
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashelycole1&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=ffffff&langs_count=8" />
+
+<img src="https://streak-stats.demolab.com?user=Ashelycole1&theme=radical&hide_border=true&background=0d0d0d&stroke=7c3aed&ring=7c3aed&fire=ef4444&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888&sideNums=7c3aed" width="70%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### CONTRIBUTION ACTIVITY
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashelycole1&bg_color=0d0d0d&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**African developers don't just consume technology — we create it.**
+
+Every project I ship is proof.
+Whether it's helping a Ugandan citizen know their rights,
+a farmer visualize their harvest data,
+or a traveller pay across borders without friction —
+
+**I build for impact. Not portfolios.**
+
+---
+
+[![](https://img.shields.io/badge/Let's_Build_Something_That_Matters-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://ashelycole.vercel.app)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0533,100:0d0d0d&height=100&section=footer" width="100%"/>
+
+</div>
